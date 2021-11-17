@@ -5,7 +5,7 @@ summary: lyrahgames-log C++ library
 license: GPL-3.0-or-later ; GNU General Public License v3.0 or later.
 
 description-file: README.md
-url: https://example.org/lyrahgames-log
+url: https://github.com/lyrahgames/log
 email: lyrahgames@mailbox.org
 #build-error-email: lyrahgames@mailbox.org
 
