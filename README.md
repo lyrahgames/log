@@ -1,0 +1,3 @@
+# lyrahgames-log
+
+C++ library

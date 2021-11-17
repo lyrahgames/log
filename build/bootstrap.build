@@ -1,0 +1,7 @@
+project = lyrahgames-log
+
+using version
+using config
+using test
+using install
+using dist

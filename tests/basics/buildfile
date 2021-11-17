@@ -1,0 +1,3 @@
+import libs = lyrahgames-log%lib{lyrahgames-log}
+
+exe{driver}: {hxx ixx txx cxx}{**} $libs testscript{**}
