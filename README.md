@@ -193,3 +193,8 @@ If your package uses an explicit `depends: lyrahgames-log` make sure to initiali
 ## Alternative Usage
 To use other build systems or manual compilation, you only have to add the `lyrahgames/log/` directory to your project and include it in the compilation process.
 
+## Background
+
+## References
+- [Code Project: The Art of Logging](https://www.codeproject.com/Articles/42354/The-Art-of-Logging)
+- [Boost.Log v2 Documentation](https://www.boost.org/doc/libs/1_80_0/libs/log/doc/html/index.html)

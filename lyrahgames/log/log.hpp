@@ -1,7 +1,10 @@
 #pragma once
+#include <lyrahgames/log/version.hpp>
+//
 #include <lyrahgames/log/debug_log.hpp>
 #include <lyrahgames/log/release_log.hpp>
-#include <lyrahgames/log/version.hpp>
+//
+#include <lyrahgames/log/core.hpp>
 
 namespace lyrahgames::log {
 
